@@ -1,0 +1,23 @@
+.Reacharge-item-content{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.Reacharge-item-content-1{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    font-weight: bold;
+}
+.Recharge-bill-icon{
+    display: block;
+    margin: auto 35px;
+    padding: auto;
+}
+.Recharge-heading{
+    display: block;
+    margin: 15px;
+    padding: 25px;
+    color: #f5f5f5;
+    font-weight: bold;
+}

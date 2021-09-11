@@ -1,0 +1,26 @@
+.dash-breadcrumb{
+    margin:0px auto -20px !important;
+    border: 1px solid red;
+}
+.dash-Image{
+    margin:10px 30px;
+    padding:auto 25px;
+}
+.dash-Title{
+    color: #f5f5f5;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0 3px;
+}
+.dash-Image-1{
+    margin:15px 30px;
+    padding:auto 25px;
+    color: #f5f5f5;
+    font-weight: bold;
+}
+.dash-Title-1{
+    color: #f5f5f5;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0 3px;
+}

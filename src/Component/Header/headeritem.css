@@ -1,0 +1,39 @@
+.MuiAppBar-colorPrimary {
+    background: #ffffff !important;
+    color: #000000 !important;
+}
+.top-header{
+    display: flex;
+}
+.Bticks{
+    text-decoration: none;
+}
+.Consumer-accrodion{
+    position: absolute;
+}
+.HeaderItem-1{
+    display: block;
+    margin: auto 10px;
+    font-weight: bold;
+    padding: auto;
+}
+.Responsive-Icon{
+    display: none;
+}
+@media screen and (max-width: 960px){
+    .HeaderItem-1{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 800px){
+    .HeaderResponsive{
+      display: none;
+    }
+    .formGroup-responsive{
+        justify-content: flex-end;
+    }
+    .Responsive-Icon{
+        display: block;
+        
+    }
+}

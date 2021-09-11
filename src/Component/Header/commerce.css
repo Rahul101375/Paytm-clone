@@ -1,0 +1,7 @@
+.shop-accrodion{
+    position: relative;
+}
+.shop-accrodion-item{
+    position: absolute;
+    left: 200px;
+}

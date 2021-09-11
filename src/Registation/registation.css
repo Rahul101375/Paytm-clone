@@ -1,0 +1,79 @@
+.Registation-background{
+    background: linear-gradient(#115c5c,#008080);
+}
+.registation-main{
+    display: block;
+    width: 33%;
+    padding: auto;
+    margin: 20px auto;
+}
+.Registation-heading{
+    color: black;
+    margin: 10px auto;
+    padding: 10px;
+    font-weight: bold;
+    font-family:'fantasy';
+    width: 400px;
+}
+.registation-email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.registation-match{
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px auto;
+    align-items: center;
+}
+.firstName{
+    display: flex;
+    /* justify-content: flex-start; */
+}
+.firstName-icon{
+    margin: 20px auto;
+}
+.lastName{
+    display: flex;
+    justify-content: center;
+    /* margin-right: 10px; */
+    /* border: 1px solid red; */
+}
+.firstname{
+    display: block;
+}
+.firstname-set{
+   display: flex;
+}
+.registation-radio{
+    display: flex;
+    align-items: center;
+    margin: 10px 80px;
+}
+
+.button-set{
+    display: block;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+    border: 1px solid red;
+}
+.registation-button{
+    display: block;
+    width: 70%;
+    padding: 10px;
+    margin:  20px auto;
+    background: #f2d024;
+    font-weight: bold;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.registation-login{
+    display: block;
+    width: 90%;
+    margin: -15px 20px 0px;
+    padding-bottom: 20px;
+}
+.navLink-Login{
+    text-decoration: none;
+}

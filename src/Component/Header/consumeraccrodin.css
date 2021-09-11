@@ -1,0 +1,21 @@
+.Consumer-inside-item{
+    position: relative;
+}
+.Consumer-inside-item-1{
+    z-index: 100;
+    position:absolute;
+    left: 170px;
+    top: -72px;
+}
+.Consumer-inside-item-2{
+    top: -135px;
+    z-index: 100;
+    position:absolute;
+    left: 170px;
+}
+.Consumer-inside-item-3{
+    top: -205px;
+    z-index: 100;
+    position:absolute;
+    left: 170px;
+}

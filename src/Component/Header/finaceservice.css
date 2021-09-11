@@ -1,0 +1,8 @@
+.banking-item{
+    position: relative;
+}
+.banking-item-1{
+    position: absolute;
+    left: 240px;
+    top: -72px;
+}
